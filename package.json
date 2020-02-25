@@ -1,0 +1,23 @@
+{
+  "name": "JinYongChivalry",
+  "version": "1.0.0",
+  "description": "这是关于金庸先生笔下的武侠小说。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/houdesen/JinYongChivalry.git"
+  },
+  "keywords": [],
+  "author": "houdesen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/houdesen/JinYongChivalry/issues"
+  },
+  "homepage": "https://github.com/houdesen/JinYongChivalry#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
